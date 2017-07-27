@@ -1,7 +1,7 @@
 <template>
   <div class="hero pt-2">
     <div class="text-lg-center text-md-center text-sm-center text-xs-center px-5 py-5">
-      <h1>คนหาย สัตว์เลี้ยงหาย ของหาย</h1>
+      <h1>คนหาย สัตว์เลี้ยงหาย ของหาย.</h1>
       <h2>คุณสามารถลงประกาศ แจ้งหายไว้ได้ที่นี่ แล้วให้พวกเราช่วยตามหา</h2>
       <v-btn @click.native="goCreate" class="blue-grey white--text">
         <v-icon left dark>edit</v-icon>
